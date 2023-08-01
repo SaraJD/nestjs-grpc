@@ -1,1 +1,1 @@
-# nestjs-grpc
+# grpc-nest-proto
